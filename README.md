@@ -1,2 +1,2 @@
 # codewars
-Codewars
+Task solutions from codewars
